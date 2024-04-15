@@ -1,0 +1,42 @@
+p{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color:rgb(7, 100, 36);
+}
+
+body{
+    background-color: rgb(230, 198, 117);
+    font-family: Impact, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: brown;
+    border: 45px solid rgb(148, 85, 165);
+    margin: 20 px;
+    padding: 100px
+    
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.style{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+}
+
+.hooper{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 50%;
+}
